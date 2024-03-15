@@ -13,8 +13,11 @@
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/><br>
       <hr>
       <div align="left">
-:woman_technologist: This, is a Cognorise Infotech Internship Page..<br>
-      Here, you'll get all Internship task done by me during my Java Programming Internship in Cognorise Infotech. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+:woman_technologist: This, is a Cognorise Infotech WebDev Hackathon..<br>
+      For Round 1 of this hackathon, you have to build a Landing page for an educational website.
+You can use any technology stack to build the landing page
+We will roll out the submission form later
+This is an Individual Event <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 :mailbox:How to reach me: <a href="https://www.linkedin.com/in/aayush-kantak-88a7b4271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br>
